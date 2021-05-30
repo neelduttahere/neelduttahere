@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello there! 👋
 
+What is the point of a github bio anyways.
+
+⚡ Fun fact: ...
+ The Star Wars chronicles would be only one movie, if Qui Gon wasn't stuck up on a slave kid who doesn't like sand.
 <!--
 **neelduttahere/neelduttahere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
